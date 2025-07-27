@@ -1,0 +1,17 @@
+[2025-07-27 15:56:17.953203] USB Inserted: Drive: F:\
+[2025-07-27 16:00:48.732790] USB Inserted: Drive: F:\
+[2025-07-27 16:03:14.421421] USB Inserted: Drive: F:\
+[2025-07-27 16:05:32.790875] USB Inserted: Drive: F:\
+[2025-07-27 16:27:26.484200] USB Inserted: Drive: F:\
+[2025-07-27 16:41:52.335830] USB Inserted: Drive: F:\
+[2025-07-27 16:42:15.603563] Error: Exception in monitor loop: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31e75753d1asm5123508a91.40 - gsmtp')
+[2025-07-27 16:42:39.661816] USB Inserted: Drive: F:\
+[2025-07-27 16:43:07.930544] Error: Exception in monitor loop: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31ea8c1770dsm2135918a91.36 - gsmtp')
+[2025-07-27 16:43:27.016302] USB Inserted: Drive: F:\
+[2025-07-27 16:43:48.790744] Error: Exception in monitor loop: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2401866c2a1sm5098545ad.4 - gsmtp')
+[2025-07-27 16:48:10.240920] USB Inserted: Drive: F:\
+[2025-07-27 16:48:27.101059] Error: Exception in monitor loop: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31e66eabf0esm7203716a91.11 - gsmtp')
+[2025-07-27 16:48:35.952755] USB Inserted: Drive: F:\
+[2025-07-27 16:54:40.756438] USB Inserted: Drive: F:\
+[2025-07-27 16:54:55.587348] Error: Exception in monitor loop: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23fbe33eeabsm32979905ad.70 - gsmtp')
+[2025-07-27 16:55:20.894794] USB Inserted: Drive: F:\
