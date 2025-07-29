@@ -1,4 +1,4 @@
-# 🔐 USB Physical Drive Security System
+# 🔒 USB Physical Drive Security System
 
 A Python-based system to **detect, block, and log malicious USB drive insertions** on a Windows machine. It enhances physical device security by logging USB events, scanning file contents, recording intruders via webcam, and sending email alerts when suspicious devices are detected.
 
@@ -6,13 +6,13 @@ A Python-based system to **detect, block, and log malicious USB drive insertions
 
 ## 🚀 Features
 
-- ✅ **USB Insertion Detection**
-- 🧠 **Malware Keyword Scan** in USB files (e.g., `virus`, `trojan`, `malware`)
-- 🔒 **USB Blocking** via registry edits when threat is found
-- 📸 **Webcam Intruder Recording** on detection
-- 📬 **Email Alert** to system admin with incident log
-- 🖥️ **User-friendly GUI** with quick access buttons
-- 📁 **Log and Video Storage** for evidence
+- **USB Insertion Detection**
+- **Malware Keyword Scan** in USB files (e.g., `virus`, `trojan`, `malware`)
+- **USB Blocking** via registry edits when threat is found
+- **Webcam Intruder Recording** on detection
+- **Email Alert** to system admin with incident log
+- **User-friendly GUI** with quick access buttons
+- **Log and Video Storage** for evidence
 
 ---
 
@@ -80,6 +80,6 @@ The program starts monitoring USB drives. If a new USB is inserted:
 
 **Vishnu Thurvas**  
 [LinkedIn Profile](https://www.linkedin.com/in/tsvishnu/)  
-Cybersecurity Enthusiast | Developer | Problem Solver
+Cybersecurity Professional | Developer | Problem Solver
 
 ---
